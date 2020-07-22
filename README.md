@@ -7,4 +7,8 @@ Climate Change is global concern that requires a global commitment and solution.
 1500 training images as well as the 1500 test images. 
 These images are all overhead satellite views of suburban and residential locations. Each image is 101 pixels in width and 101 pixels in height. They are all color images utilizing the RBG (Red-Blue-Green) color channels.
 
+# Key Techniques
+CNN, Deep Learning, Image Classification, Image Preprocessing
 
+# Language
+Python
